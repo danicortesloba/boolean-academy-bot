@@ -1,0 +1,23 @@
+{
+  "name": "boolean-academy-bot",
+  "version": "0.0.1",
+  "description": "A basic bot for Boolean Acadademy's Slack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@slack/bolt": "^1.6.0"
+  },
+  "engines": {
+    "node": "11.x"
+  },
+  "repository": {
+    "url": "https://boolean-academy-bot.herokuapp.com/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
